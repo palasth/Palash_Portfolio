@@ -29,3 +29,6 @@ applying Modelling techniques to predict future risk .
 Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 ![](/Images/ML.png)
+
+
+# MORE PROJECTS UPLOADING SOON!!
