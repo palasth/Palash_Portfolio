@@ -1,5 +1,4 @@
-## Palash_Portfolio
-Data Science portfolio
+
 ### [PROJECT 1- IMDb_project : PROJECT OVERVIEW](https://github.com/palasth/IMDb_project)
 
 - **Objective:** A Film producer needs to know the overall classification of big data of IMDb which gives maximum profitability .
