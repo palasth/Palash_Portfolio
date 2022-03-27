@@ -30,5 +30,8 @@ Further, the model will be a good way for management to understand the demand dy
 -                                        BIKE COUNT v/s INDEPENDENT VARIABLES
 ![](/Images/ML.png)
 
-
+### [PROJECT 4- RSVP_Movies_Analysis_SQL](https://github.com/palasth/RSVP_Movies_Analysis_SQL)
+-RSVP Movies wants to plan their every move analytically based on Relational SQL database of the movies that have been released in the past three years.
+- **Solution:** I have Used SQL to analyse the Dataset and had drawn conclusion and meaningful insights in a pdfthat can help them to take further steps to start their new project.
+![](/Images/sql1.jpg)
 #                                          MORE PROJECTS UPLOADING SOON!!
